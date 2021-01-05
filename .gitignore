@@ -1,5 +1,6 @@
-src/bazel-bin
-src/bazel-out
-src/bazel-src
-src/bazel-testlogs
+bazel-bin
+bazel-out
+bazel-src
+bazel-testrepo
+bazel-testlogs
 
